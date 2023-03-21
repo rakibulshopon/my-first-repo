@@ -1,0 +1,18 @@
+.containers{
+    color: blue;
+    text-align: center;
+}
+.persons{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.src-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background: #20dd3669;
+    padding: 12px;
+    border-radius: 12px;
+}
